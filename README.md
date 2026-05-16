@@ -28,6 +28,8 @@ _✨ 简单好用的 AI 聊天插件 ✨_
 > [!IMPORTANT]
 > 写的比较史，欢迎提 pr 或 issue！
 
+欢迎查看我的另一个独立框架，支持持久记忆，高度自定义，主动消息以及创新架构：https://github.com/captain-wangrun-cn/N.O.R.A.Core
+
 ## 🆕 特色
 
 ### AI 可以发的
